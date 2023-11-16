@@ -1,4 +1,7 @@
 {
-  "account_name_holder": "Febrian",
-  "money": 5000
+  "user": 
+    {
+      "account_name_holder": "Febrian",
+      "money": 5000
+    }
 }
