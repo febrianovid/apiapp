@@ -1,9 +1,15 @@
 {
-  "user": [
+  "users": [
     {
       "id": 1,
-      "name": "Febrian",
-      "money": 5000
+      "name": "Febrian"
+    }
+  ],
+  "money": [
+    {
+      "id": 1,
+      "money": 5000,
+      "usersId": 1
     }
   ],
   "profile": {
