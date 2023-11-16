@@ -9,7 +9,7 @@
     {
       "id": 1,
       "money": 5000,
-      "usersId": 1
+      "userId": 1
     }
   ],
   "profile": {
